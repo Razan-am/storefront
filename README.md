@@ -6,10 +6,10 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox - phase1](https://codesandbox.io/s/eloquent-brahmagupta-rfs43)
+- [Sandbox - phase1](https://codesandbox.io/s/epic-kirch-8k36j)
 
 ### Pull request
-[PR](https://github.com/Razan-am/todo-app/pull/1)
+[PR](https://github.com/Razan-am/storefront/pull/1)
 
 ### Running the app
 - npm start
