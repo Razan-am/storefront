@@ -1,13 +1,13 @@
 // Create my Redux store here 
 import {combineReducers, createStore} from 'redux';
 import {composeWithDevTools} from 'redux-devtools-extension';
-import category from './category';
-import products from './products';
+import categoryReducer from './category';
+import productReducer from './products';
 
 //1-  combine reducers in one reducer 
 let reducers = combineReducers({
-    categories:category,
-    product:products
+    categories:categoryReducer,
+    products:productReducer
 });
 
 // 2- createStore 

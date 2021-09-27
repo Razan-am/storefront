@@ -1,7 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import {active} from '../store/category';
-import { productActive } from '../store/products';
 import Breadcrumbs from '@material-ui/core/Breadcrumbs';
 import Link from '@material-ui/core/Link';
 
@@ -26,9 +25,6 @@ const mapStateToProps = (state) => {
     return state.categories;
   }
 
-const mapDispatchToProps = {
-    active,
-    productActive
-};
+const mapDispatchToProps = {active};
 
 export default connect(mapStateToProps,mapDispatchToProps)(Categories);
