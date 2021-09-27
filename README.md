@@ -6,7 +6,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox - phase1](https://codesandbox.io/s/epic-kirch-8k36j)
+- [Sandbox - phase1](https://codesandbox.io/s/quiet-glitter-h50zh)
 
 ### Pull request
 [PR](https://github.com/Razan-am/storefront/pull/2)
