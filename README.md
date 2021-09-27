@@ -9,7 +9,7 @@
 - [Sandbox - phase1](https://codesandbox.io/s/epic-kirch-8k36j)
 
 ### Pull request
-[PR](https://github.com/Razan-am/storefront/pull/1)
+[PR](https://github.com/Razan-am/storefront/pull/2)
 
 ### Running the app
 - npm start
