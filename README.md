@@ -23,10 +23,10 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox - phase1](https://codesandbox.io/s/quiet-glitter-h50zh)
+- [Sandbox - phase2](https://codesandbox.io/s/lingering-paper-b00pb)
 
 ### Pull request
-[PR](https://github.com/Razan-am/storefront/pull/2)
+[PR](https://github.com/Razan-am/storefront/pull/3)
 
 ### Running the app
 - npm start
