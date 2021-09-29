@@ -40,7 +40,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox - phase2](https://codesandbox.io/s/lingering-paper-b00pb)
+- [Sandbox - phase3](https://codesandbox.io/s/ecstatic-kepler-j4pnc)
 
 ### Pull request
 [PR](https://github.com/Razan-am/storefront/pull/4)
