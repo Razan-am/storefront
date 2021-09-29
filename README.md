@@ -33,6 +33,23 @@
 
 ---------------------------------------------------------------------------------
 
+# Lab: Class 38
+
+## storefront(Phase 3)
+
+### Author: Razan Alamleh
+
+### Code Sandbox
+- [Sandbox - phase2](https://codesandbox.io/s/lingering-paper-b00pb)
+
+### Pull request
+[PR](https://github.com/Razan-am/storefront/pull/4)
+
+### Running the app
+- npm start
+
+---------------------------------------------------------------------------------
+
 
 ### UML
 ![uml](./images/uml.png)
