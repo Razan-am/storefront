@@ -50,6 +50,23 @@
 
 ---------------------------------------------------------------------------------
 
+# Lab: Class 39
+
+## storefront(Phase 4)
+
+### Author: Razan Alamleh
+
+### Code Sandbox
+- [Sandbox - phase3](https://codesandbox.io/s/ecstatic-kepler-j4pnc)
+
+### Pull request
+[PR](https://github.com/Razan-am/storefront/pull/4)
+
+### Running the app
+- npm start
+
+---------------------------------------------------------------------------------
+
 
 ### UML
 ![uml](./images/uml.png)
