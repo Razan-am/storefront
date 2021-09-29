@@ -57,7 +57,7 @@
 ### Author: Razan Alamleh
 
 ### Code Sandbox
-- [Sandbox - phase3](https://codesandbox.io/s/ecstatic-kepler-j4pnc)
+- [Sandbox - phase4](https://codesandbox.io/s/ecstatic-kepler-j4pnc)
 
 ### Pull request
 [PR](https://github.com/Razan-am/storefront/pull/4)
