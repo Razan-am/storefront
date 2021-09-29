@@ -8,7 +8,7 @@ import ListItemText from '@material-ui/core/ListItemText';
 import { If } from "react-if";
 
 
-function AddToCart(props) {  
+function SimpleCart(props) {  
     function handleList() {
       let temp = [];
       props.cart.map((element) => {
@@ -62,4 +62,4 @@ function mapStateToProps(state) {
 
 const mapDispatchToProps = { deleteProduct };
 
-export default connect(mapStateToProps,mapDispatchToProps)(AddToCart);
+export default connect(mapStateToProps,mapDispatchToProps)(SimpleCart);
